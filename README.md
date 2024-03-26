@@ -4,4 +4,4 @@
 
 **Base on:** https://github.com/samarsault/plainwhite-jekyll
 
-**Home:** https://tienthang.github.io/
+**Home:** https://tienthangit.github.io/
