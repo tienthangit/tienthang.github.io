@@ -4,6 +4,9 @@ email: ntienthang2308@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   NGUYEN TIEN THANG's Blog
 show_excerpts: true # set to true to show excerpts on the homepage
+domain: tienthangit.github.io  
+url: https://tienthangit.github.io 
+baseurl: /tienthangit.github.io/
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
